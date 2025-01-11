@@ -38,8 +38,8 @@ This project reads data from sensors, processes it using user-defined equations,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ziadwaelai/SW.git
-   cd swTask
+   git clone https://github.com/ziadwaelai/GraphQL
+   cd GraphQL
    ```
 
 2. **Create and Activate a Virtual Environment**:
